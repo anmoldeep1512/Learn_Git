@@ -14,6 +14,6 @@ The aim of this repository is to familiarise students with Git/GitHub. Students 
 
 ## Interested Students
 
-- Name: 
-- Roll No.:
-- Interests: 
+- Name: Anmoldeep Kaur
+- Roll No.:2018CSA1032
+- Interests: ML, Python, Web Development, Mobile App Development
